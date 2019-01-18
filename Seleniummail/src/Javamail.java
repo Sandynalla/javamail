@@ -46,7 +46,7 @@ public class Javamail {
 
 					protected PasswordAuthentication getPasswordAuthentication() {
 
-					return new PasswordAuthentication("sandeepreddynalla02@gmail.com", "Kittu0215");
+					return new PasswordAuthentication("sandeepreddynalla02@gmail.com", "*****");
 
 					}
 
